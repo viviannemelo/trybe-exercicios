@@ -90,7 +90,8 @@ curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efc
 
 # Exercícios - Dia 04
 
-## Parte I - Comandos de Input e Output
+<details>
+<summary><strong>Parte I - Comandos de Input e Output</strong></summary><br />
 
 1. Navegue até a pasta `unix_tests`;
 
@@ -113,8 +114,9 @@ curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efc
 10. Crie um novo arquivo chamado `bunch_of_things.txt` com os conteúdos dos arquivos `phrases2.txt` e `countries.txt`
 
 11. Ordene o arquivo `bunch_of_things.txt`.
-
-## Parte II - Permissões
+</details>
+<details>
+<summary><strong>Parte II - Permissões</strong></summary><br />
 
 1. Navegue até a pasta `unix_tests`;
 
@@ -176,3 +178,4 @@ E pra terminar com a energia óh, lá no alto, que tal aprender agora alguns com
 7. Veja como fica a sua sorte do dia ao contrário. Dica: utilize o comando `rev`.
 
 8. Execute o comando `telnet towel.blinkenlights.nl` e espere alguns segundos. Lembre-se que você tem mais exercícios para fazer!😅
+  </details>
