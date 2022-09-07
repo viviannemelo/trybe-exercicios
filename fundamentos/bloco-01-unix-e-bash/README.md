@@ -1,7 +1,7 @@
 # Exercícios - Dia 03
 
 <details>
-<summary><strong>## Parte I - Criação de arquivos e diretórios</strong></summary><br />
+<summary><strong>Parte I - Criação de arquivos e diretórios</strong></summary><br />
 
 **Dica :** Para criação de arquivos vazios você pode utilizar o comando `touch nome-do-arquivo.extensao`.
 
@@ -50,8 +50,8 @@ SQL
 
 16. Apague todos os arquivos que terminem em `.txt`.
 </details>
-
-## Parte II - Manipulação & Busca
+<details>
+<summary><strong>Parte II - Manipulação & Busca</strong></summary><br />
 
 1. Na pasta `unix_tests`, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
 
@@ -86,7 +86,7 @@ curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efc
 13. Liste todos os arquivos que terminem com `tbt` ou `txt`.
 
 14. Acesse o manual do comando `ls`.
-
+</details>
 
 # Exercícios - Dia 04
 
