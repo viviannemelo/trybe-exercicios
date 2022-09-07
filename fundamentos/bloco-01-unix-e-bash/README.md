@@ -1,6 +1,7 @@
 # Exercícios - Dia 03
 
-## Parte I - Criação de arquivos e diretórios
+<details>
+<summary><strong>## Parte I - Criação de arquivos e diretórios</strong></summary><br />
 
 **Dica :** Para criação de arquivos vazios você pode utilizar o comando `touch nome-do-arquivo.extensao`.
 
@@ -48,6 +49,7 @@ SQL
 15. Mostre na tela as 4 últimas skills do arquivo `skills.txt`.
 
 16. Apague todos os arquivos que terminem em `.txt`.
+</details>
 
 ## Parte II - Manipulação & Busca
 
