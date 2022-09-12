@@ -10,8 +10,9 @@ No **Bloco 3** aprendemos como começar a criação de uma página utilizando de
 - DOM;
 
 <details>
-<summary> ## Exercícios - 01 </summary>
-### Requisitos
+<summary> Exercícios - 01 </summary>
+**Requisitos**
+
 Seu Portfólio Web deve ter as seguintes informações:
 1. Seu nome completo;
 2. Uma foto atual sua, acompanhada de um texto alternativo, que deve ser a descrição da foto que você está usando;
@@ -23,9 +24,10 @@ Seu Portfólio Web deve ter as seguintes informações:
 8. Um índice com links internos para as diferentes seções do seu portfólio.
 </details>
 <details>
-<summary> ## Exercícios - 02 </summary>
-### Estilizando seu Portfólio Web!
-#### Requisitos
+<summary>Exercícios - 02</summary>
+**Estilizando seu Portfólio Web!**
+
+Requisitos
 1. Seu Portfólio Web deve ser estilizado usando as informações a seguir:
 2. Defina fontes diferentes para o seu nome e para a descrição que você criou;
 3. Defina uma cor base de background do seu Portfólio Web;
@@ -33,9 +35,10 @@ Seu Portfólio Web deve ter as seguintes informações:
 5. Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
 </details>
 <details>
-<summary> ## Exercícios - 03 </summary>
-### Layout e Box Model no seu Portfólio Web
-#### Requisitos
+<summary>Exercícios - 03 </summary>
+** Layout e Box Model no seu Portfólio Web **
+
+Requisitos
 1. Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
 2. A descrição deve ficar ao lado da foto;
 3. Centralize seu nome na página;
@@ -44,23 +47,25 @@ Seu Portfólio Web deve ter as seguintes informações:
 6. Coloque estilo somente nos itens ímpares da lista das suas habilidades.
 </details>
 <details>
-<summary> ## Exercícios - 04 </summary>
-### HTML Semântico
-1 - Adicione um cabeçalho na página contendo o título Soco a 80km/h: Conheça o Stomatopoda.
-2 - Adicione um conjunto de links que representam a área de navegação do site.
+<summary>Exercícios - 04 </summary>
+**HTML Semântico**
+
+1. Adicione um cabeçalho na página contendo o título Soco a 80km/h: Conheça o Stomatopoda.
+2. Adicione um conjunto de links que representam a área de navegação do site.
     - Crie um link chamado Página Inicial.
     - Crie um link chamado Sobre.
     - Crie um link chamado Contato.
-3 - Crie um artigo que vai conter os fatos interessantes sobre o Stomatopoda. O artigo terá o subtítulo Fatos sobre o Stomatopoda. Segue um site animal de inspiração para pegar fatos.
-4 - Divida o artigo em seções, organizando-o da seguinte forma:
+3. Crie um artigo que vai conter os fatos interessantes sobre o Stomatopoda. O artigo terá o subtítulo Fatos sobre o Stomatopoda. Segue um site animal de inspiração para pegar fatos.
+4. Divida o artigo em seções, organizando-o da seguinte forma:
     - Uma primeira seção contendo informações gerais a respeito do animal. O subtítulo para essa seção fica a seu critério. É necessário que conste nessa seção seu nome científico, que é Odontodactylus scyllarus, em itálico. Além disso, é preciso que haja informação tabular a respeito de sua classificação científica, em específico: Reino, Filo, Subfilo, Classe, Subclasse e Ordem. Tais informações você consegue obter na Wikipedia.
     - As outras seções dizem respeito aos fatos interessantes que você escolheu acerca do animal. Para cada fato escolhido você vai criar uma seção.
     - Adicione, para cada seção, um subtítulo referente ao fato escolhido.
     - Adicione, para cada seção, parágrafo(s) descrevendo o fato escolhido. Destaque características impressionantes referentes ao fato que você escolheu, de forma a reforçar a unicidade do Stomatopoda. Por exemplo: se você criar uma seção detalhando o soco potente do animal, seria interessante destacar a velocidade desse soco (80km/h) em negrito.
     - Adicione, para cada seção, uma imagem, como forma de ilustrar o fato.
     - Adicione, por fim, uma seção de referências bibliográficas, contendo uma lista de todos os links que foram usados como base para compilar a página em questão.
-5 - Adicione um conteúdo adjacente ao artigo, disponibilizando um link para este vídeo, que mostra o animal em ação.
-6 - Adicione um rodapé na página, mostrando algo do gênero:
+5. Adicione um conteúdo adjacente ao artigo, disponibilizando um link para este vídeo, que mostra o animal em ação.
+6. Adicione um rodapé na página, mostrando algo do gênero:
+
 ```
 "Conteúdo compilado por <insere seu nome>, <ano atual>".
 ```
