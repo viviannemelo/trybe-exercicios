@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+.informacoes {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+#nome {
+    font-size: 40px;
+    color: green;
+}
+#descricao {
+    width: 50%;
+    font-size: 18px;
+    color: white;
+    margin: auto;
+    padding-top: 10px;
+}
+ul {
+    color: white;
+}
+ul :first-child{
+    font-size: 40px;
+}
+ul :last-child{
+    font-size: 25px;
+}
+a {
+    color: white;
+}
