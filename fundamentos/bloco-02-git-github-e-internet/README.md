@@ -1,4 +1,7 @@
+# Git, GitHub e Internet
+
 No **Bloco 2** aprendemos o que é Git e como utilizar no fluxo de trabalho, salvando projetos em um repositório remoto como o GitHub e trabalhando de maneira colaborativa com um time. Também entendemos melhor como funciona a Internet, dentro desse conteúdo vimos o conceito de Software X Hardware, Cliente X Servidor, protocolos HTTP e HTTPS e identificar quais tipos de requisição podem ser feitos através desses protocolos.
+
 
 **Tópicos relevantes:**
 - Controle de versão de código em equipe;
