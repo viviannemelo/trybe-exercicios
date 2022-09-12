@@ -11,7 +11,7 @@ No **Bloco 3** aprendemos como começar a criação de uma página utilizando de
 
 <details>
 <summary> Exercícios - 01 </summary>
-**Requisitos**
+Requisitos
 
 Seu Portfólio Web deve ter as seguintes informações:
 1. Seu nome completo;
@@ -25,7 +25,7 @@ Seu Portfólio Web deve ter as seguintes informações:
 </details>
 <details>
 <summary>Exercícios - 02</summary>
-**Estilizando seu Portfólio Web!**
+Estilizando seu Portfólio Web!
 
 Requisitos
 1. Seu Portfólio Web deve ser estilizado usando as informações a seguir:
@@ -36,7 +36,7 @@ Requisitos
 </details>
 <details>
 <summary>Exercícios - 03 </summary>
-** Layout e Box Model no seu Portfólio Web **
+Layout e Box Model no seu Portfólio Web
 
 Requisitos
 1. Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
@@ -48,7 +48,7 @@ Requisitos
 </details>
 <details>
 <summary>Exercícios - 04 </summary>
-**HTML Semântico**
+HTML Semântico
 
 1. Adicione um cabeçalho na página contendo o título Soco a 80km/h: Conheça o Stomatopoda.
 2. Adicione um conjunto de links que representam a área de navegação do site.
