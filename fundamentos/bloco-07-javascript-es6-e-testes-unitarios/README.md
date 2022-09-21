@@ -7,7 +7,9 @@ No **Bloco 7** aprendemos sobre a nova versão do JS, o ES6. Além de aprender q
 - Arrow Functions;
 - Templates literals;
 - Operador ternário;
-- If/Else e Switch/case;
+- Trow e Try/Catch;
+- Métodos de objetos;
+- NodeJS Assert;
 - Jest;
 
 <details>
