@@ -128,4 +128,4 @@ let leitor = {
 
 
 ## PROJETO FINAL
-Ao final do bloco realizamos o projeto Playground Functions um projeto em que utilizamos da lógica e baby steps para transformar grandes problemas em pequenos problemas pra conseguir solucionar. Você pode verificar nesse link uma publicação no meu perfil do LinkedIn para visualizar o projeto finalizado.
+Ao final do bloco realizamos o projeto Playground Functions um projeto em que utilizamos da lógica e baby steps para transformar grandes problemas em pequenos problemas pra conseguir solucionar. Você pode verificar nesse link o repositório desse projeto finalizado.
