@@ -94,56 +94,48 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Desenvolvimento Front-end :white_check_mark:
 
 <details>
-  <summary><strong>Bloco 9: JavaScript Assíncrono e Promises</strong></summary>
+  <summary><strong>Seção 01: Introdução ao Frontend e Javascript assíncrono</strong></summary>
   
 - [x] 9.1 - JavaScript Assíncrono e Callbacks
-- [x] 9.2 - JavaScript Promises
+- [x] 9.2 - JavaScript Promises e fetch
 - [x] 9.3 - Projeto - Carrinho de Compras
 </details>
 
 <details>
-  <summary><strong>Bloco 10: Testes automatizados com Jest</strong></summary>
-  
-- [x] 10.1 - Primeiros passos no Jest
-- [x] 10.2 - Jest - Testes Assíncronos
-- [x] 10.3 - Jest - Simulando comportamentos
-- [x] 10.4 - Projeto - Jest Assíncrono e Mocking
-</details>
-
-<details>
-  <summary><strong>Bloco 11: Introdução à React</strong></summary>
+  <summary><strong>Seção 02: Introdução à React</strong></summary>
   
 - [x] 11.1 - Introdução - Front-end
 - [x] 11.1 - Introdução - React
 - [x] 11.1 - 'Hello, world!' no React!
 - [x] 11.2 - Componentes React
-- [x] 11.3 - Projeto - Movie Cards Library
+- [x] 11.3 - Projeto - Solar System
 </details>
 
 <details>
-  <summary><strong>Bloco 12: Componentes com Estado, Eventos e Formulários com React</strong></summary>
+  <summary><strong>Seção 03: Componentes com Estado, Eventos e Formulários com React</strong></summary>
   
 - [x] 12.1 - Componentes com estado e eventos
 - [X] 12.2 - Formulários no React
-- [X] 12.3 - Projeto - Movie Cards Library Stateful
+- [X] 12.3 - Projeto - Tryunfo
 </details>
 
 <details>
-  <summary><strong>Bloco 13: Ciclo de Vida de Componentes e React Router</strong></summary>
+  <summary><strong>Seção 04: Ciclo de Vida de Componentes e React Router</strong></summary>
   
 - [x] 13.1 - Ciclo de vida de componentes
 - [x] 13.2 - React Router
-- [x] 13.3 - Projeto - Movie Cards Library CRUD
+- [x] 13.3 - Projeto - TrybeTunes
 </details>
 
 <details>
-  <summary><strong>Bloco 14: Metodologias Ágeis</strong></summary>
+  <summary><strong>Seção 05: Metodologias Ágeis</strong></summary>
   
 - [x] 14.1 - Metodologias Ágeis
 - [x] 14.2 - Projeto - Frontend Online Store
+</details>
 
 <details>
-  <summary><strong>Bloco 15: Testes automatizados com React Testing Library</strong></summary>
+  <summary><strong>Seção 06: Testes automatizados com React Testing Library</strong></summary>
   
 - [x] 15.1 - RTL - Primeiros passos
 - [x] 15.2 - RTL - Mocks e Inputs
@@ -152,11 +144,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 </details>
 
 <details>
-  <summary><strong>Bloco 16: Gerenciamento de estado com Redux</strong></summary>
+  <summary><strong>Seção 07: Gerenciamento de estado com Redux</strong></summary>
 - [x] 16.1 - Introdução ao Redux - O estado global da aplicação
 - [x] 16.2 - Usando o Redux no React
 - [x] 16.3 - Usando o Redux no React - Prática
 - [x] 16.4 - Usando o Redux no React - Actions Assíncronas
 - [x] 16.5 - Testes síncronos com React-Redux
-- [x] 16.6 - Projeto - Tabela com filtros de dados
+- [x] 16.6 - Projeto - Trybe Wallet
 </details>
