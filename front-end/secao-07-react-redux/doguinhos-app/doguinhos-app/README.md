@@ -1,1 +1,1 @@
-Exercício de requisição de API utilizando ações assíncronas com Redux.
+## Exercício de requisição de API utilizando ações assíncronas com Redux.
